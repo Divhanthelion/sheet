@@ -1,0 +1,11 @@
+[package]
+name = "scaffold_20260130_194857"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+crossterm = "0.28"
+csv = "1"
+ratatui = "0.29"
+thiserror = "2"
