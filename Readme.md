@@ -21,8 +21,8 @@ A fast, keyboard-driven spreadsheet application for your terminal. Built with Ru
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/tui-spreadsheet.git
-cd tui-spreadsheet
+git clone https://github.com/Divhanthelion/sheet.git
+cd sheet
 cargo build --release
 ```
 
