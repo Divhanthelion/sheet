@@ -1,3 +1,5 @@
+> **Archived.** Successor: [rustsheet](https://github.com/Divhanthelion/rustsheet). This TUI is a different engine, not a port.
+
 # TUI Spreadsheet
 
 A fast, keyboard-driven spreadsheet application for your terminal. Built with Rust and [ratatui](https://github.com/ratatui/ratatui).
